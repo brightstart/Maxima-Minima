@@ -1,7 +1,7 @@
 # Maxima-Minima
 DSAD Problem of Maxima-Minima
 
-Problem Statement : Does Maxima Minima exist for given input function?
+Problem Statement : Does Maxima Minima exist for given input function? 
 
 OVERVIEW
     1- To read the input file from the mentioned four distributions form and return minima or maxima of array.
